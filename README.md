@@ -4,7 +4,8 @@ This is my second version of iserv-email-preview, now with using Iserv3 API. Sad
 
 Usage
 -----
-Please read first the ReadMe in my [iserv-email-preview](https://github.com/WuerfelDev/iserv-email-preview)
+Please read first the ReadMe in my [iserv-email-preview](https://github.com/WuerfelDev/iserv-email-preview). This version is similar im most points.
+
 
 
 Differences
