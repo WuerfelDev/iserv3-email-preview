@@ -31,6 +31,7 @@ subject=${alles%%'"'*}
 alles=${alles#*'date": "'}
 sdate=${alles%%'"'*}
 output="$output\n$subject\n$sname, $sdate\n${iservhost}msg/msg.php?INBOX/$uid\n"
+#output="$output\n$subject\n$sname, $sdate\n${iservhost}v3/mail?path=INBOX&msg=$uid\n"
 done
 
 
